@@ -8,7 +8,9 @@ I did this research at the end of my college lab time. I am not interested in it
 
 # Tips:
 The model is quite small, so it will take just seconds to finish the procedure, there is no need for high-level hardware.
+
 The enhancement performance is highly dependent on training parameters. Once you change the parameters, you might get some eccentric results.
+
 Please run pip install -r requirements.txt in your command at first.
 
 
