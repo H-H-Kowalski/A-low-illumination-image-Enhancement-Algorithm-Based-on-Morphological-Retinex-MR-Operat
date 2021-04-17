@@ -1,0 +1,6 @@
+numpy>=1.18.5
+mahotas>=1.4.11
+matplotlib>=3.3.4
+opencv-python>=4.1.2.30
+scikit-image>=0.17.2
+timm>=0.4.5
