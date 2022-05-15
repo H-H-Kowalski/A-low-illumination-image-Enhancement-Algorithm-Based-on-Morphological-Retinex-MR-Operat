@@ -5,7 +5,10 @@ This is a repository for code A low-illumination Image Enhancement Algorithm Bas
 
 In this project, I basically use the Morphological operator and retinex module as the main way to enhance low-light images.
 I did this research at the end of my college lab time. I am not interested in it anymore. Thus, after the paper published, I send the code and hope it might be helpful to others.
-<img width="661" alt="image" src="https://user-images.githubusercontent.com/77916478/168464293-ac378842-e2f3-4a1f-acb8-d40cc14cf1c3.png">
+
+# Result:
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/77916478/168464877-eefaf900-246c-4ab5-8b67-be08c6348405.png">
+
 
 # Tips:
 The model is quite small, so it will take just seconds to finish the procedure, there is no need for high-level hardware.
